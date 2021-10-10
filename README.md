@@ -3,9 +3,6 @@
 
 
 
-[![Backers on Open Collective](https://opencollective.com/forgenetworking/backers/badge.svg)](#backers)
- [![Sponsors on Open Collective](https://opencollective.com/forgenetworking/sponsors/badge.svg)](#sponsors) 
-
 In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
 
 Welcome to the most innovative networking solution (which works with the Unity game engine). Forge's network bandwidth is unbeatable, its performance outclasses other solutions, its flexibility is in a league of its own, and, as always, it has no CCU limits whatsoever. Forge Networking is an open source networking solution built in C#. It is completely multi-threaded and was designed to work both inside and outside of the Unity Game Engine but mainly in conjunction with Unity. To get started, check out the links listed below in this readme.
@@ -36,56 +33,17 @@ Use the links below to learn how to create your first project with Forge Remaste
 
 [Discord](https://discord.gg/yzZwEYm) - Join us and the growing community, for talking about Forge Networking as well as just networking in general. Even if you don't exactly use Forge Networking in your project you can get a ton of insight from this community :)
 
-[Generated API](https://forgepowered.com/ForgeNetworkingRemasteredAPI/html/index.html)
-
 [YouTube Jumpstart Videos](https://www.youtube.com/playlist?list=PLm1w78-UUlMIi5Vfwy6ckJQIQMHMT-QS5)
 
-
-## Builds
-#### [Nightly Builds Thanks To @TiToMoskito On Discord / Rexima On GitHub](http://www.titomoskito.com/forgenetworking/)
-[Alternative (older) Unity Package Download V24.3](https://e71dac46a75cac973b88-8a2ab8f09d41afeb61265f61aa50339b.ssl.cf1.rackcdn.com/Forge-Networking-Remastered-%2024.%203.unitypackage)
-
 ## Ways to support the project
-1) Make pull requests :D
-2) Any donations are much appreciated <3
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4CXPTUZR3KBLU)
+- Make pull requests :D
+- Contribute to tutorials, documentation, and in the Discord community
+- [GitHub Sponsorship](https://github.com/sponsors/BrentFarris)
 
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/undefined/undefinedgraphs/contributors"><img src="https://opencollective.com/forgenetworking/contributors.svg?width=890&button=false" /></a>
+<img src="https://opencollective.com/forgenetworking/contributors.svg?width=890&button=false" />
 
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/forgenetworking#backer)]
-
-<a href="https://opencollective.com/forgenetworking#backers" target="_blank"><img src="https://opencollective.com/forgenetworking/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/forgenetworking#sponsor)]
-
-<a href="https://opencollective.com/forgenetworking/sponsor/0/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/forgenetworking/sponsor/1/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/forgenetworking/sponsor/2/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/forgenetworking/sponsor/3/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/forgenetworking/sponsor/4/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/forgenetworking/sponsor/5/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/forgenetworking/sponsor/6/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/forgenetworking/sponsor/7/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/forgenetworking/sponsor/8/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/forgenetworking/sponsor/9/website" target="_blank"><img src="https://opencollective.com/forgenetworking/sponsor/9/avatar.svg"></a>
-
-
-
-## License (MIT)
-Copyright 2017 Bearded Man Studios, Inc.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## License (Apache License 2.0)
+[See this link for more information](https://github.com/BeardedManStudios/ForgeNetworkingRemastered/blob/master/LICENSE)
